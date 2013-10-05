@@ -1,0 +1,25 @@
+{
+  "name": "enumerate-functions",
+  "version": "0.0.0",
+  "description": "Serialize functions by enumerating their domains.",
+  "main": "enumerate-functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/puffnfresh/enumerate-functions.git"
+  },
+  "keywords": [
+    "function",
+    "serialization"
+  ],
+  "author": "Brian McKenna",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/puffnfresh/enumerate-functions/issues"
+  },
+  "devDependencies": {
+    "gendocs": "~0.4.2"
+  }
+}
